@@ -5,6 +5,5 @@ Before use, create file 'OPENAI_API_KEY.txt' in the same directory with your API
 
 <br>
 <br>
-<br>
   
 ![Screenshot of my project](Capture.PNG)
