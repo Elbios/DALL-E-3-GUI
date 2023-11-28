@@ -5,5 +5,5 @@ Before use, create file 'OPENAI_API_KEY.txt' in the same directory with your API
 
 <br>
 <br>
-  
-![Screenshot of my project](Capture.PNG)
+
+<img src="Capture.PNG" alt="Screenshot" width="490" height="435"/>
